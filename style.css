@@ -1,0 +1,38 @@
+body {
+    font-size: 14pt;
+}
+body {
+  background-image:
+  url(image_2.jpg)
+} 
+body {
+  background-size:
+  cover ;
+  background-position:
+  center;
+}
+table {
+  margin-top: 20px;
+  margin-left: 80px;
+  background-color: White;
+  height: 10px;
+  width: 200px
+}
+td {
+  font-family:Times 'Times New Roman', Times, serif;
+}
+button {
+ background-color: black;
+ font-size: 20px;
+ color: white;
+ font: Helvetica;
+ margin-top: 5px;
+ margin-left: 60px;
+}
+
+img {
+  height: 250px;
+  width: 340px;
+  margin-top: 30px;
+  margin-right: 20px;
+}
